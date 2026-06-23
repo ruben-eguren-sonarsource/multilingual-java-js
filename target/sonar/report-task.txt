@@ -1,7 +1,0 @@
-organization=rubeguren-group
-projectKey=ola
-serverUrl=https://sonarcloud.io
-serverVersion=8.0.0.93065
-dashboardUrl=https://sonarcloud.io/dashboard?id=ola
-ceTaskId=AZ70WNVpmERxLxbzn-8b
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZ70WNVpmERxLxbzn-8b
