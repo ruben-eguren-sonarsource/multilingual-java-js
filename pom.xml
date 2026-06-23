@@ -15,7 +15,6 @@
     <maven.compiler.release>11</maven.compiler.release>
     <sonar.organization>rubeguren-group</sonar.organization>
     <sonar.projectKey>ola</sonar.projectKey>
-    <sonar.maven.scanAll>true</sonar.maven.scanAll>
   </properties>
 
   <dependencies>

@@ -3,5 +3,5 @@ projectKey=ola
 serverUrl=https://sonarcloud.io
 serverVersion=8.0.0.93065
 dashboardUrl=https://sonarcloud.io/dashboard?id=ola
-ceTaskId=AZ70Nhuxp0ddKacX0Si7
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZ70Nhuxp0ddKacX0Si7
+ceTaskId=AZ70UnDPx1-Y5dm2A8YK
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZ70UnDPx1-Y5dm2A8YK
